@@ -1,6 +1,6 @@
 db:
-  url: jdbc:postgresql://localhost:5433/companies
-  username: admin-prod
-  password: =dAt\h.8K4zk@XR64Wy]
+  url: jdbc:postgresql://db-companies:5433/companies
+  username: admin
+  password: admin.$12
   connection-timeout: 20000
   maximum-pool-size: 5
