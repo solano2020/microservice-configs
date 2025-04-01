@@ -1,5 +1,5 @@
 db:
-  url: jdbc:postgresql://db-companies:5433/companies
+  url: jdbc:postgresql://db-companies:5432/companies
   username: admin
   password: admin.$12
   connection-timeout: 20000
